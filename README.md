@@ -17,3 +17,4 @@ The aim of this repository is to bring together useful resources that moderators
 ## Sites
 
 * [OpenBazaarModerators (Reddit)](https://www.reddit.com/r/OpenBazaarModerators/)
+* [Slack](https://openbazaar.slack.com/messages/moderators/)
